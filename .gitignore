@@ -1,6 +1,5 @@
 # Distribution
 .vscode/launch.json
-.alpackages/*
 *.app
 
 # Desktop Services Store on macOS
