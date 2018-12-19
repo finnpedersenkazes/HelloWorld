@@ -1,6 +1,6 @@
 # Distribution
 .vscode/launch.json
-*.app
+Default publisher_HelloWorld_1.0.0.0.app
 
 # Desktop Services Store on macOS
 .DS_Store
